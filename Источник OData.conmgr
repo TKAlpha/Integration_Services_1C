@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Источник OData"
+  DTS:DTSID="{25BE3991-F8C2-4F3C-8126-90C1AA2267D9}"
+  DTS:CreationName="ODATA"
+  p1:Salt="rJRc1ESnNvM="
+  p1:IV="+WHcmtbydVcMWPZZDTRFMw=="
+  p1:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p1="www.microsoft.com/SqlServer/SSIS">gP5fii4uFrRL+YgGQYcCUeGhyLTnrMs5qkukN4V5ky5Ueji+R07NLOvpbsSsOikKuruMSEEnTLhfTAi8APBANDHZFsJWfJc1iDKEXOa6W7+5r00ouLLDEw/tyfIhDvWRABePwAQAPZGExfkMz0/eHVjjUrbj1eX1CnNO3J2p9kFYtFryhXax3Il6ZVZP4K7YbRsY47hdGntRlVIpkiEhg4z6C36d93eCmTXGsl2jl3dA678iDRuVQ9xW8ooPAhD/SWpvwWiEyrnwz1pm67NFxQbBB57CVvP7MzoEVA8TCka/qX9Z0AdYRcwk8zpegYjGcyFAR+bsC3oL4lNtdRD/uX6LOKL4nqbKetb3XjclVGSGPTro4j4EVnDZW+dz5WUs1iLz91kOndDRhA0+0PF+i6GmM24WdTefIbIf749+uLzn2Q4//6DteQEWB5KRKQJ4IA1F38wVYPIeB8ReQPyLOvlOo589Y3H/u+Ru7qX/G8G16W8Nt156Yf6GVjvc7wRfZO19tyMdYvnokx60TpBvXmKz5ItSGIieXbGWwSXeOxhX8MbDf5aqXljb/elNtVJPKCou2nEYGZORmf+/yBuPfD3TJGzIzMtcez0sSq/SsnDw7DLu4tpKbUzsp/E12oSZi0pENk9xbXeQIJsZLj7IAjof705g+HuKCfxMXObdDA1acDGdNVXXUBBAVEMVONqAYsVa1jPPBBfBnjsCo/H/XzYsXelLYQelmDbhn9tKTiZ36vANl8C+I5GSSGErIyuqyca6fZai2+MqO1jg/+JDXCl4BA+iWrfiVLlCnlVWy5Ojj7e5kOyN64Llu1h8k422JNZlDWEnmQ3qzRKsyVIiikuozF50gMrCwXrFf4kBamYn3KfoyJGS/vW9rOEikRe6UdbRNOZFW3t94AkJJfJ4qzcXvTdvYZS1rCUKBjkmNQLCm6OlTsjY2ZxbbYlIjvcmSTxAlm11MOHO2rWGU9widLdnX2j6dX2hrHrEUzIAuLR7Qwuh7RqW03i8XM53AxOOzjiUPcTmJvtKCAeYakOMjYsWtJiGALitc1Fjxr+hvkSbzRwvZALfQnMYX10OHUb9GQlIXxgqs4tXp06A0aGdCw==</DTS:ConnectionManager>

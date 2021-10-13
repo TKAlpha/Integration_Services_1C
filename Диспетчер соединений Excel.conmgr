@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Диспетчер соединений Excel"
+  DTS:DTSID="{A5A7F9CD-1F9B-4D53-BFA4-F200AB0C22AD}"
+  DTS:CreationName="EXCEL"
+  p1:Salt="JSkqjEUvD2Y="
+  p1:IV="1kNBObozRCMMNkgqPs53ew=="
+  p1:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p1="www.microsoft.com/SqlServer/SSIS">zbKi69DsHqk62JkdH2fmZuORAuk2BDkqs0LBAup+Kq0L3plcZZdjVIkgWH7IKEG6RoHGQWZTPXgva38g5EN7SJvWVdEJbfLQM7i7stGnnVtIlDicYbjte9bFIPbma/Y9I+5CKAmO9gXpy6mUnPhyvCqv603S9INXGa3X3nsKbsKOHmRU5p0xs9op8rvOYQqkgvl4MAf3o+DTPe2Zt78C48CnAzppgfs5sqPrvn5OnRAO4qX/mnIm3emx5xRAFlgZw2yL1bBvNnCVZqDErFxn7OASNr4HNbM8IbBk+8PcvnHFMBLuCb5QTNJ5lkwB5zGo5BGmbEiA0hDZmXbhjlrGlALjWRCa6Hf3mzZe/6E4/tsSriu+OmGGdZ0TL28dL6ZQbYGVY9xg6GzwNfZKpHYeZ8pdBgt5dZCD6dtoVf9LlatnmpPeFfpqAUaykFkRER7ZALNx1jhEeOfhTEwALMj37HaWddP/thWAhPVG69z95UOnLvA93SNpssi1vL9ezmLdOnKwekMTjNJR28X5H7cC2p32+SEDfXwHjn0ueCd3cvRB1U1F4n/dMNc3teuDVwrr23kZ97ARQjnQ68jE0aM3h5PYtKQVZ34OoNPooK3Rhp4=</DTS:ConnectionManager>
